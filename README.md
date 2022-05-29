@@ -1,6 +1,6 @@
 ## GuessTheCard
 
-A decentralized guessing game built with Vue and Truffle.
+A decentralized guessing game built with Vue, Truffle and Tailwind CSS.
 
 ## Screenshots
 
