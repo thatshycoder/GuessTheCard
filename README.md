@@ -1,6 +1,6 @@
 ## GuessTheCard
 
-A guessing game built with VueJS
+A guessing game with cryptocurrency based reward system. Built with VueJS & Truffle.
 
 ## Installation
 ```
